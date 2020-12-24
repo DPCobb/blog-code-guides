@@ -4,19 +4,43 @@ A work in progress list of helpful and interesting links.
 
 ## Cheatsheets
 
-|URL|Description|
-|:--|:----------|
-|[http://cheat.sh/](cheat.sh)|An awesome collection of cheatsheets you can access via command line or URL|
+- [http://cheat.sh/](cheat.sh)
+- [Bash scripting cheatsheet](https://devhints.io/bash)
+- [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/)
 
 ## Bash / Command Line
 
-|URL|Description|
-|---|-----------|
-|[Bash Reference Manual](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)|Bash manual|
-|[bashoneliners.com](http://www.bashoneliners.com/oneliners/popular/)|A collection of helpful Bash one line scripts|
-|[Conquering The Command Line](http://conqueringthecommandline.com/book/frontmatter)|Free Command Line ebook|
+- [Bash Reference Manual](http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+- [bashoneliners.com](http://www.bashoneliners.com/oneliners/popular/)
+- [Conquering The Command Line](http://conqueringthecommandline.com/book/frontmatter)
 
 ## Web Security
-|URL|Description|
-|:--|:----------|
-|[Gruyere](https://google-gruyere.appspot.com/)|Google Codelab to learn about web vulnerabilities.|
+
+- [Gruyere](https://google-gruyere.appspot.com/)
+- [hackthebox.eu](https://www.hackthebox.eu/)
+- [tryhackme.com](https://tryhackme.com/)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+- [Defend The Web](https://defendtheweb.net/?hackthis)
+
+## Images
+
+- [Pexels](https://pexels.com)
+- [Unsplash](https://unsplash.com)
+- [Gratisography](https://gratisography.com/)
+
+## Sounds
+
+- [Freesound](https://freesound.org/browse/tags/CC0/)
+
+## Design Assets and Tools
+
+- [Retro Vectors](http://retrovectors.com/)
+- [UI Coach](https://uicoach.io/)
+- [Coolors](https://coolors.co/)
+- [0to255](https://0to255.com)
+
+## CSS
+
+- [Web Gradients](https://webgradients.com/)
+- [CSS Gradient Generator](https://cssgradient.io/)
+- [Animate.css](https://animate.style)
